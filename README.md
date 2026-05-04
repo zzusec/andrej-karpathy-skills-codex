@@ -1,4 +1,4 @@
-# andrej-karpathy-skills for Codex
+# andrej-karpathy-skills-codex
 
 A Codex `AGENTS.md` adaptation of coding-agent behavior guidelines inspired by Andrej Karpathy's observations on common LLM coding mistakes.
 
